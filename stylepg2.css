@@ -1,0 +1,23 @@
+
+.logo {
+    text-align: center;
+}
+
+.gastos {
+    border: 2px solid black;
+}
+
+.imgBanco {
+    text-align: left;
+    padding: 30px;
+}
+
+.pBanco {
+    display: inline-block;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.grafico {
+    padding: 40px;
+}

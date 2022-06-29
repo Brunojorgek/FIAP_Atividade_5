@@ -1,0 +1,22 @@
+.logo {
+    text-align: center;
+}
+
+.img_usuario {
+    text-align: center;
+}
+
+.senha {
+    padding-bottom: 4px;
+    padding-top: 8px;
+}
+
+.col-md-6 {
+    padding: 8px;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+}
+
